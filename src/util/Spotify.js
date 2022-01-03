@@ -1,6 +1,6 @@
 
 const clientID = '55a6e6e84e8547858179ce82db7c2e60';
-const redirectURI = 'http://localhost:3000/';
+const redirectURI = 'https://spotify-jammming.surge.sh/';
 
 let accessToken; 
 
