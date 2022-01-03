@@ -2,6 +2,9 @@
 
 Jamming is a useless React app for creating new playlists with Spotify.
 
+## Deployed on Surge
+https://jammmingbyseran.surge.sh/
+
 ## Codecademy
 
 Built for the final project of the [Codecademy Pro Intensive - Build Front-End Web Applications from Scratch](https://bit.ly/2m3tEtc).
