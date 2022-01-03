@@ -1,6 +1,6 @@
-# Jamming
+# Jammming
 
-Jamming is a useless React app for creating new playlists with Spotify.
+Jammming is a useless React app for creating new playlists with Spotify.
 
 ## Deployed on Surge
 https://jammmingbyseran.surge.sh/
